@@ -1,4 +1,8 @@
-Code to be used with the [Cyber Monday IoT Hobby Kit](https://www.sparkfun.com/products/14061). Experiment guide and tutorials can be found [here](https://learn.sparkfun.com/tutorials/iot-hobby-kit-experiment-guide/).
+Code to be used with the [Cyber Monday IoT Hobby Kit](https://www.sparkfun.com/products/14061). Experiment guide and tutorials can be found [here](https://learn.sparkfun.com/tutorials/internet-of-things-experiment-guide).
+
+[![alt text](https://cdn.sparkfun.com/assets/learn_tutorials/5/9/4/14061-01.jpg)](https://cdn.sparkfun.com/assets/learn_tutorials1/5/9/4/14061-01.jpg)
+
+[Cyber Monday IoT Hobby Kit](https://www.sparkfun.com/products/14061)
 
 ### License
 
